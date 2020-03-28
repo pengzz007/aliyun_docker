@@ -1,1 +1,1 @@
-FROM mongo:2.4
+FROM mongo:2.4.13
